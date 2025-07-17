@@ -1,0 +1,12 @@
+[
+    {
+        "nome": "felipe",
+        "CPF": "12345678911",
+        "pegou_livro": true
+    },
+    {
+        "nome": "thamires",
+        "CPF": "12345678922",
+        "pegou_livro": false
+    }
+]

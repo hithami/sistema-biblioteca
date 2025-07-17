@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J. K. Rowling",
+        "ano_publica\u00e7\u00e3o": 1997,
+        "disponibilidade": true
+    },
+    {
+        "titulo": "A guerra dos tronos",
+        "autor": "George R. R. Martin",
+        "ano_publica\u00e7\u00e3o": 1996,
+        "disponibilidade": true
+    },
+    {
+        "titulo": "Naruto - Vol 1",
+        "autor": "Masashi Kishimoto",
+        "ano_publica\u00e7\u00e3o": 2000,
+        "disponibilidade": false
+    }
+]
